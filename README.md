@@ -8,7 +8,6 @@
 
 - I am a Software Developer with interest in Blockchain, Mobile App and Backend development
 - I am working on improving the general wellbeing of Africans and the underdeveloped through a trading(commerce) infrastructure
-- I am a Community Tech Lead at Tezos Nigeria 
  
 </td><td valign="top" width="25%">
 
