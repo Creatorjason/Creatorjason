@@ -1,4 +1,4 @@
-<a href="https://twitter.com/Realms_in_man"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a> 
+<!-- <a href="https://twitter.com/Realms_in_man"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" width="40"/></a> 
 &ensp;<a href="https://www.youtube.com/channel/UCA96mqCmkOF7aOmvqwvOSEg"><img src="https://cdn.worldvectorlogo.com/logos/youtube-icon.svg" title="YouTube" alt="YouTube Account" width="40"/></a>
 &ensp;<a href="https://www.linkedin.com/in/jason-charles-dev/"><img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" title="Linkedin" alt="Linkedin Account" width="30"/></a> 
 
@@ -24,3 +24,4 @@
 - Smartpy
 - Core Blockchain
  
+ -->
